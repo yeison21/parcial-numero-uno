@@ -1,1 +1,4 @@
+*.layaout
+*.cbp
 
+*.o
